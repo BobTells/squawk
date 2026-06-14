@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Early prototype.** A personal experiment, shared rough — expect sharp edges and breaking changes.
+
 # Squawk
 
 A Claude skill that argues **against** your plan.
